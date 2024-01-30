@@ -13,4 +13,4 @@ Here are some of the key tools I utilize in my work:
 
 I'm always eager to connect and discuss potential collaborations or opportunities. Feel free to reach out to me via [email/LinkedIn/other contact information] to start a conversation!
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![https://github.com/wesalEldsokey](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
